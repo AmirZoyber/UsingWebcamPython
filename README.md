@@ -2,9 +2,9 @@
 Using webcam in your Python code and record video from your webcam.
 
 
-requirements :
+Install requirement(openCV) :
 
-Python 3.8 >
+```bash
+pip install opencv-python
+```
 
-openCV (cv2) #library
-time  #library
