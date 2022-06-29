@@ -11,6 +11,6 @@ Using webcam in your Python code and record video from your webcam.
 Install CV2(openCV) :
 
 ```bash
-pip install opencv-python
+$ pip install opencv-python
 ```
 
